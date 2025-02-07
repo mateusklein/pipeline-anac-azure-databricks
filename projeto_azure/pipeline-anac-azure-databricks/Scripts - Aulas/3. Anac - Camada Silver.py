@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %fs ls dbfs:/mnt/Anac/Bronze
+# MAGIC %fs ls dbfs:/mnt/Anac/Silver
 
 # COMMAND ----------
 
